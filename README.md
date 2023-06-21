@@ -19,7 +19,7 @@
 
 <div style="display:inline-block"><br>
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="VBA" title="VBA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/VBA/VBA-original.svg" />
+  <img align="center" alt="VBA" title="VBA" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/VBA/VBA-original.svg](https://serkonda7.gallerycdn.vsassets.io/extensions/serkonda7/vscode-vba/0.9.0/1686121620796/Microsoft.VisualStudio.Services.Icons.Default)" />
 </div>
 
 ## Banco de Dados
