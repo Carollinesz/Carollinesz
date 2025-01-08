@@ -1,17 +1,6 @@
 ### Olá, sejam bem vindos! 👋
 
 # Carolline Zerbinatti
-
-- 👩‍🏭 I’m currently working with Python
-  - Data transformation and visualization
-  - IA and ML projects
-  - Desktop and Web Software Services
-  - RPA
-  - Automations
-  - Bots
-  - Websites with Django
-- 💻 Studing Cloud Computing
-- 👩‍🎓 I´m graduated in Marketing and certificate in Administration
   
   
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511993915727&text=Olá!)](https://api.whatsapp.com/send?phone=5511993915727&text=Olá!)
