@@ -2,8 +2,9 @@
 
 <div>
   <h1> Carolline Zerbinatti </h1>
-  <p></p>
-  
+  <p>Hi, everyone! I'm a Data Scientist with focus in develop and study the amazing world of Artificial Intelligence! I work in this area since 2022 and I'm graduated in Marketing, so I bring a costumer satisfaction on my solutions combinated with clean design UI/UX</p>
+  <p>To know more about my experience and projects you can visit my: <a href="#" cursor="pointer" target="_blank" style="color:#8A00C4">portfolio</a></p>
+  <p>You can contact by my email: Carollinezerbinatti@gmail.com or whatsapp: +5511993915727</p>
 </div>
 <div>
   <div style="display:inline-block"><br>
