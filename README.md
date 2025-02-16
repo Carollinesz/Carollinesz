@@ -3,7 +3,7 @@
 <div>
   <div class="header">
     <img align='left' alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/58521e4e2bd3d4b988cbd17d7365df3c/32/512x512.png" />
-    <h1 align='center'  class="custom-header">Welcome everyone!<img align='right' alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png" /></h1>
+    <h1 align='center'  class="custom-header" style="border-bottom:0">Welcome everyone!<img align='right' alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png" /></h1>
     
   </div>
   
