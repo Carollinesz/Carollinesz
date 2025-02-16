@@ -49,23 +49,6 @@
 </div>
 
 
-<style>
-.heading-element {
-    margin: 0;
-    padding: 0;
-    transform: translateY(1px);
 
-.markdown-heading{
-  position:
-}
-.markdown-body h1 {
-  border-bottom: 0
-}
-.header{
-  display: flex; 
-  align-items: center; 
-  justify-content: space-between
-}
-</style>
 
 
