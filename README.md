@@ -1,9 +1,21 @@
 <img align="center" alt="Carolline Zerbinatti dev" title="data scientist" height="200" width="1920" src="https://i.imgur.com/G4hwpJk.jpeg" />
 
 <div>
-  <h1> Carolline Zerbinatti </h1>
+  <div style="display:flex; align-items:center; flex-wrap: nowrap"; flex-direction:row>
+    <img align="center" alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png" />
+    <h1 display:flex; style="margin: 0; padding: 0; white-space: nowrap"> Carolline Zerbinatti </h1>
+    <img align="center" alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png" />
+  </div>
+  
   <p>Hi, everyone! I'm a Data Scientist with focus in develop and study the amazing world of Artificial Intelligence! I work in this area since 2022 and I'm graduated in Marketing, so I bring a costumer satisfaction on my solutions combinated with clean design UI/UX</p>
-  <p>To know more about my experience and projects you can visit my: <a href="#" cursor="pointer" target="_blank" style="color:#8A00C4">portfolio</a></p>
+  <p>To know more about my experience and projects you can visit my:</p>
+    <a href="https://x.com/home" 
+         style="color: #8A00C4; text-decoration: none; cursor: pointer"
+         target="_blank"
+         onmouseover="this.style.textDecoration='underline'"
+         onmouseout="this.style.textDecoration='none'">
+        portfolio
+      </a>
   <p>You can contact by my email: Carollinezerbinatti@gmail.com or whatsapp: +5511993915727</p>
 </div>
 <div>
