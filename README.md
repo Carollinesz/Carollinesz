@@ -21,6 +21,12 @@
 </div>
 <div>
   
+  <div style="display:inline-block"><br>
+    <h2>Stacks</h2>
+    <img align="center" alt="Python" title="Python" height="50" width="50" src="https://i.imgur.com/uexSfOS.jpg" />
+    <img align="center" alt="Typescript" title="Typescript" height="50" width="50" src="https://i.imgur.com/DsnLK2T.jpg" />
+    <img align="center" alt="Javascript" title="Javascript" height="50" width="50" src="https://i.imgur.com/QRZkVZ2.jpg" />
+  </div>
   
   <div style="display:inline-block"><br>
     <h2>Devops/MLops</h2>
