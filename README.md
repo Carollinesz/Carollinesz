@@ -4,7 +4,7 @@
   <div><br>
       <img align="left" alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/58521e4e2bd3d4b988cbd17d7365df3c/32/512x512.png" />
       <h1 align="center" class="my-class" style="display:flex; margin:0 !important; padding:0 !important; transform: translateY(1px);">Welcome everyone!  <img align="right" alt="Linux" title="Linux" height="50" width="50" src="https://cdn2.steamgriddb.com/icon/63c6598e9ddd2961e7dfa4d4eb8144a1/32/512x512.png" /></h1>
-      
+
   </div><br>
 
   <p>I'm a Data Scientist focused on developing and exploring the amazing world of Artificial Intelligence. I've been working in this field since 2022 and hold a degree in Marketing, which allows me to combine customer satisfaction in my solutions</p>
